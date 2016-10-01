@@ -25,6 +25,3 @@ In this lab, we're going to practice writing simple functions.
 #### Starter code
 
 Here is a link to the [starter code](./code/starter-code/w1-2.2-starter.ipynb)
-
-> [Solution Code](./code/solution-code/w1-2.2-solution.ipynb)
-
