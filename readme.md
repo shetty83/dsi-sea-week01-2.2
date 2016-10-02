@@ -20,39 +20,38 @@ In this lab, we're going to practice writing simple functions.
 - Write a function with three arguments. Find the surface area of cuboid.
 
 **Bonus:**
-- Write a Python function to find the Max of three numbers.
-Click me to see the sample solution
+- Write a function to find the Max of three numbers.
 
-- Write a Python function to sum all the numbers in a list.
+- Write a function to sum all the numbers in a list.
 Sample List : (8, 2, 3, 0, 7)
 Expected Output : 20
 
-- Write a Python function to multiply all the numbers in a list. 
+- Write a function to multiply all the numbers in a list. 
 Sample List : (8, 2, 3, -1, 7)
 Expected Output : -336
 
-- Write a Python program to reverse a string. 
+- Write a function to reverse a string. 
 Sample String : "1234abcd"
 Expected Output : "dcba4321"
 
-- Write a Python function to calculate the factorial of a number (non-negative integer). The function accept the number as a argument.
+- Write a function to calculate the factorial of a number (non-negative integer). The function accept the number as a argument.
 
-- Write a Python function to check whether a number is in a given range. 
+- Write a function to check whether a number is in a given range. 
 
-- Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters. 
+- Write an function that accepts a string and calculate the number of upper case letters and lower case letters. 
 Sample String : 'The quick Brow Fox'
 Expected Output :
 No. of Upper case characters : 3
 No. of Lower case Characters : 12
 
-- Write a Python function that takes a list and returns a new list with unique elements of the first list. Go to the editor
-Sample List : [1,2,3,3,3,3,4,5]
-Unique List : [1, 2, 3, 4, 5]
+- Write an function that takes a list and returns a new list with unique elements of the first list. 
+  Sample List : [1,2,3,3,3,3,4,5]
+  Unique List : [1, 2, 3, 4, 5]
 
-- Write a Python function that takes a number as a parameter and check the number is prime or not. Go to the editor
-Note : A prime number (or a prime) is a natural number greater than 1 and that has no positive divisors other than 1 and itself.
+- Write a function that takes a number as a parameter and check the number is prime or not. 
+  Note : A prime number (or a prime) is a natural number greater than 1 and that has no positive divisors other than 1 and itself.
 
-- Write a Python program to print the even numbers from a given list. Go to the editor
+- Write a function to print the even numbers from a given list. 
 Sample List : [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Expected Result : [2, 4, 6, 8]
 
